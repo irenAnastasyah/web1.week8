@@ -1,0 +1,10 @@
+body{
+    margin: 10vh 5vw;
+}
+img{
+    height: 25vh;
+    margin: 10px;
+}
+.atas{
+    display: flex;
+}
